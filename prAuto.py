@@ -10,4 +10,7 @@ def _(p,m):
   if m.text == "!s":
     m.delete()
     m.reply("Assalomu aleykum. Yaxshimisiz.")
+  if m.text == "!r":
+    m.delete()
+    m.reply("Rahmat")
 APP.run()
