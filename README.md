@@ -2,7 +2,7 @@
 
 >> Telegram client : _Pyrogram_.
 
-Hohlagancha buyruq qo'sha olasiz
+Hohlagancha buyruq qo'sha olasiz!
 
 
 >if m.text == "!r":<br>
