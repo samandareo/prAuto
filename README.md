@@ -9,4 +9,4 @@ Hohlagancha buyruq qo'sha olasiz!
 >   m.delete()<br>
 >   m.reply("Rahmat")
 
-(!r buyrug'iga hohlagan buyruq yozing!)
+_!r buyrug'iga hohlagan buyruq yozing!_
