@@ -5,8 +5,8 @@
 Hohlagancha buyruq qo'sha olasiz!
 
 
->if m.text == "!r":
+>if m.text == "!r":<br>
 >   m.delete()
 >   m.reply("Rahmat")
 
-》!r buyrug'iga hohlagan buyruq yozing!
+|!r buyrug'iga hohlagan buyruq yozing!
