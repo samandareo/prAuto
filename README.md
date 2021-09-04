@@ -11,4 +11,4 @@
 
 _!r buyrug'iga hohlagan buyruq yozing!_
 
-Kod uchun yordam bergan (Tilon)+[t.me/tilon] ga rahmat!
+Kod uchun yordam bergan [Tilon](https://tme/tilon)ga rahmat!
