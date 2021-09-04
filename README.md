@@ -1,3 +1,3 @@
 # Telegram profilni avtomatlashtirish!
 
->> Telegram client : Pyrogram
+>> Telegram client : _Pyrogram_.
