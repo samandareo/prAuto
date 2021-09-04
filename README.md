@@ -1,1 +1,1 @@
-admin: t.me/tilon
+# Telegram profilni avtomatlashtirish!
