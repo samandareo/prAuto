@@ -2,7 +2,7 @@
 
 >> Telegram client : _Pyrogram_.
 
-Hohlagancha buyruq qo'sha olasiz!
+*Hohlagancha buyruq qo'sha olasiz!*
 
 
 >if m.text == "!r":<br>
@@ -10,3 +10,5 @@ Hohlagancha buyruq qo'sha olasiz!
 >   m.reply("Rahmat")
 
 _!r buyrug'iga hohlagan buyruq yozing!_
+
+Kod uchun yordam bergan (Tilon)[t.me/tilon] ga rahmat!
