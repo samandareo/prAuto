@@ -11,4 +11,9 @@
 
 _!r buyrug'iga hohlagan buyruq yozing!_
 
+Bu asosan har doim ishlatiladigan shablon gaplarga kamroq vaqt ketkazish maqsadida ishlab chiqilgan.
+To'liq avtomatlashtirish yoki boshqa funksiyalarni o'rganish uchun [Pyrogram](https://docs.pyrogram.org/) yoki [Telethon](https://docs.telethon.dev/en/stable/) o'rganishingizni maslahat beraman!
+
+Unutmang, bular bilan ishlash uchun Python tilini junior darajada o'rganing!
+
 Kod uchun yordam bergan [Tilon](https://t.me/tilon)ga rahmat!
